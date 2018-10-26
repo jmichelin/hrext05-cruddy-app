@@ -8,7 +8,7 @@
 
 ##### Notes
 - [ ] Keep DOM and localStorage matching 
-- [ ] Remember event Delegation when adding new items
+- [ ] Remember event Delegation when adding new items to .show-text
 - [ ] make sure we do not duplicate data
 - [ ] add different values to the item
 
