@@ -18,9 +18,9 @@
   id: "thing used for key",
   text-value: "some text",
   categories: [ 'cat1', 'cat2' ],
-  isComplete:
-  dateCreated:
-  dateCompleted:
+  isComplete: boolean,
+  dateCreated: dateCreated,
+  dateCompleted: dateCompleted
   ...
   etc
   }
